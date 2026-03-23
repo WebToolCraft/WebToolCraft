@@ -11,7 +11,7 @@ Welcome to the official documentation and resource hub for [WebToolCraft.com](ht
 ## 📸 Top Trending Image Tools
 High-resolution tools for official documents and web optimization.
 - [Passport Photo Maker](https://www.webtoolcraft.com/p/passport-photo-maker-free-online.html) - Create official sizes for India, USA, and UK.
-- [Aadhaar HD Print & Crop](https://www.webtoolcraft.com/p/pdf-crop-print.html) - Precision cropping for e-Aadhaar PDFs.
+- [Aadhaar HD Print & Crop](https://www.webtoolcraft.com/p/aadhaar-crop-tool.html) - Precision cropping for e-Aadhaar PDFs.
 - [PNG Background Remover](https://www.webtoolcraft.com/p/png-background-remover.html) - Instant transparency with alpha control.
 - [HEIC to JPG Converter](https://www.webtoolcraft.com/p/heic-to-jpg-converter-free-online.html) - Bulk convert iPhone photos to universal formats.
 - [Image Compressor](https://www.webtoolcraft.com/p/image-compressor-free-online.html) - Reduce file size without losing quality.
