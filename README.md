@@ -27,8 +27,8 @@ Professional-grade document handling directly in your browser.
 - [Website Ad Revenue Estimator](https://www.webtoolcraft.com/p/ads-revenue-calculator.html) - Calculate potential AdSense earnings.
 
 ## 🎓 Education & Career Tools
-- [QuickGrade EZ Grader](https://www.webtoolcraft.com/p/quickgrade.html) - The digital alternative to the physical EZ Grader for teachers. Calculate scores and print grading scales instantly.
-- [WebToolCraft Resume Builder](https://www.webtoolcraft.com/p/resume.html) - Landing your dream job starts with a high-impact CV. Our free online resume builder allows you to create an ATS-friendly (Applicant Tracking System) resume in minutes.
+- [QuickGrade EZ Grader](https://www.webtoolcraft.com/p/quickgrade.html) - The digital alternative to the physical EZ Grader for teachers. Calculate quiz scores and print grading scales instantly.
+- [Resume Builder AI](https://www.webtoolcraft.com/p/resume.html) - Create professional, ATS-friendly CVs with modern, classic, and minimalist templates. Free PDF download.
 ---
 
 ## 🔒 Privacy & Security
